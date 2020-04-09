@@ -1,0 +1,3 @@
+1234567A Kishan Murthy 18 M kishanminna@gmail.com 55.000000 178.000000 Y 17.358921
+1234567B Megha Manoj 18 F meghu.manoj@gmail.com 55.000000 155.000000 N 22.892820
+1234567C Jahnavi Anil 18 F jahnavi@gmail.com 65.000000 160.000000 Y 25.390623

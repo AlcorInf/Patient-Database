@@ -1,0 +1,44 @@
+PID: 1234567A
+Fname: Kishan
+Lname: Murthy
+Age: 18
+Gender: M
+Email: kishanminna@gmail.com
+Weight: 55.00
+Height: 178.00
+Allergies: N
+BMI: 17.36
+---------------------------------------
+PID: 1234567B
+Fname: Megha
+Lname: Manoj
+Age: 18
+Gender: F
+Email: meghu.manoj@gmail.com
+Weight: 55.00
+Height: 155.00
+Allergies: N
+BMI: 22.89
+---------------------------------------
+PID: 1234567C
+Fname: Jahnavi
+Lname: Anil
+Age: 18
+Gender: F
+Email: jahnavi@gmail.com
+Weight: 65.00
+Height: 160.00
+Allergies: Y
+BMI: 25.39
+---------------------------------------
+PID: 1234567D
+Fname: Venkatesh
+Lname: Bc
+Age: 19
+Gender: M
+Email: venkky@gmail.com
+Weight: 55.00
+Height: 179.00
+Allergies: N
+BMI: 17.17
+---------------------------------------
